@@ -183,3 +183,6 @@
 
 	/// Which god are you aligned with?
 	var/god_aligned = FISHGOD_NONE
+
+	///Can this mob be renamed when a pen is used on them?
+	var/can_be_renamed = FALSE
