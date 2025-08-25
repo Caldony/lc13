@@ -6,7 +6,8 @@ GLOBAL_LIST_INIT(low_security, list(
 ))
 
 GLOBAL_LIST_INIT(high_security, list(
-	/mob/living/simple_animal/hostile/limbus_abno/mountain
+	/mob/living/simple_animal/hostile/limbus_abno/mountain,
+	/mob/living/simple_animal/hostile/limbus_abno/queen_bee
 ))
 
 /obj/effect/landmark/limbus_abnospawn
